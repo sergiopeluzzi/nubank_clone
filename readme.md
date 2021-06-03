@@ -6,7 +6,7 @@ This will install all depencies in ```package.json ``` file
 
 
 ### Run metro bundler
-This will open a metro bundler in [localhost:19002](http://127.0.0.1:19002)
+This will open a metro bundler in [localhost:19002](http://localhost:19002)
 You can start emulators and web from here
 - ``` npm start ```
 
